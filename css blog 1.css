@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 3%;
+}
+
+.imagem{
+    text-align: center;
+}
+
+hr{
+    border: none;         
+    height: 4px;          
+    background-color: #FF69B4;  
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);    
+}
+
+h3{
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+a{
+    color: #333;
+}
